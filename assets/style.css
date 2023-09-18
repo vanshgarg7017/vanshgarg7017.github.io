@@ -1915,6 +1915,9 @@ nav .fas {
      margin: 1rem;
      width: 100%;
    }
+   .field i, .message i{
+    margin-top:20px;
+   }
    form .message i {
      top: 25px;
      font-size: 20px;
