@@ -1,4 +1,4 @@
-[![MasterHead](https://magiccopy.xyz/assets/images/hadder.gif)]((https://magiccopy.com/) )
+    [![MasterHead](https://magiccopy.xyz/assets/images/hadder.gif)]((https://magiccopy.com/) )
 
 <h1 align="center">Hi 👋, I'm Vansh Garg</h1>
 <h3 align="center">A passionate Java developer and frontend developer from India</h3>
