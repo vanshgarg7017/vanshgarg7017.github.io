@@ -1452,7 +1452,7 @@ nav .fas {
     flex-direction: column;
     height: 100vh;
   }
-  /* Add any additional mobile-specific styles for the skills section here */
+  
 }
 
 /* Certificate section media queries */
@@ -1474,7 +1474,6 @@ nav .fas {
   /* Add any additional mobile-specific styles for the contact section here */
 }
 
-/* Additional global media queries for smaller screens */
 @media (max-width: 360px) {
   /* Add styles for even smaller screens here if needed */
 }
