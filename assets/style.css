@@ -323,7 +323,7 @@
      background-color: #007bb6;
    }
    .social-icons a.dev:hover {
-     background-color: #070707;
+    background-color: #00aced;
    }
    .social-icons a.instagram:hover {
      background-color: #ee00da;
@@ -440,7 +440,8 @@
      transition: 0.3s;
    }
    .resumebtn .btn:hover {
-     background: #1a047e;
+     background: #4216f2;
+     color: #f3eded;
    }
    .resumebtn .btn:hover i {
      transform: translateX(5px);
